@@ -6,7 +6,8 @@
 ## [VLM (vision language model)](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/VLM.pdf) 
 The theory is simple, just record how to change the LLM.
 ## [LLM pretrain and sft](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/pretrain_sft.pdf)
-## [RL (reinforcement learning) base knowledge](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/dl_base.pdf)(coming soon)
+## [RL (reinforcement learning) base knowledge](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/dl_base.pdf)
+(coming soon)
 
 # Contact
 Email: tusiwei@hunnu.edu.cn
