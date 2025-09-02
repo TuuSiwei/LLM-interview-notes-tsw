@@ -4,7 +4,7 @@
 ## [Agent](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/Agent.pdf) 
 ## [VLM (vision language model)](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/VLM.pdf) 
 ## [LLM pretrain and sft](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/pretrain_sft.pdf)
-## [RL (reinforcement learning) base knowledge](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/dl_base.pdf)
+## [RL (reinforcement learning)](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/RL.md)
 (coming soon)
 
 # Contact
