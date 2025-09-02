@@ -5,7 +5,6 @@
 ## [VLM (vision language model)](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/VLM.pdf) 
 ## [LLM pretrain and sft](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/pretrain_sft.pdf)
 ## [RL (reinforcement learning)](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/RL.md)
-(coming soon)
 
 # Contact
 Email: tusiwei@hunnu.edu.cn
