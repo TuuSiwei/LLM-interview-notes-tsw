@@ -1,5 +1,5 @@
 # Directory
-## [LLM_base](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/LLM_base.md)
+## [LLM base knowledge](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/LLM_base.md)
 ## [RAG (retrieval-augmented generation)](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/RAG.pdf)
 ## [Agent](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/Agent.pdf)  
 ## [LLM pretrain and sft](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/pretrain_sft.md)
