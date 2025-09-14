@@ -2,9 +2,9 @@
 # Directory
 ## [LLM_base](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/LLM_base.md)
 ## [RAG (retrieval-augmented generation)](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/RAG.pdf)
-## [Agent](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/Agent.pdf) 
-## [VLM (vision language model)](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/VLM.pdf) 
-## [LLM pretrain and sft](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/pretrain_sft.pdf)
+## [Agent](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/Agent.pdf)  
+## [LLM pretrain and sft](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/pretrain_sft.md)
+## [VLM (vision language model)](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/VLM.pdf)
 ## [RL (reinforcement learning)](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/RL.md)
 
 # Contact
